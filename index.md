@@ -4,34 +4,23 @@ You can use the [editor on GitHub](https://github.com/zhangly409/zhangly409.gith
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
-### Markdown
+## 个人简历
+### 联系方式
+- 手机： 13651804840  
+- EMAIL：2422629611@qq.com  
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+### 个人信息
+- 张立园/女/1995.04   
+- 本科/四川大学/电子信息工程卓越工程师班/研究生/中国科学院大学/信号与信息处理  
+- 工作年限：0.5年  
 
-```markdown
-Syntax highlighted code block
+### 工作经历
+#### 爱奇艺 (2019.07-至今)  
 
-# Header 1
-## Header 2
-### Header 3
+**项目描述**
+内部监控系统  
+内部工程效率平台  
+内部云服务系统  
 
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/zhangly409/zhangly409.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+**技术栈**  
+Vue、React、Redux、Dva  
