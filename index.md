@@ -24,3 +24,9 @@ Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://j
 
 **技术栈**  
 Vue、React、Redux、Dva  
+
+### 自我评价
+- 特别爱吃  
+- 特别能干  
+- 特别爱学习  
+
